@@ -11,7 +11,6 @@ public class Xpath {
         driver.manage().window().maximize();
         
         driver.findElement(By.id(""));
-//        Select sel = new Select()
         
 	}
 
