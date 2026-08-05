@@ -19,7 +19,7 @@ public class WindowHandle {
            String id = (String) itr.next();
             driver.switchTo().window(id);
         }
-        System.out.println(driver.getCurrentUrl());
+        System.out.println(driver.getPageSource());
         driver.switchTo().window(parId);
         System.out.println(driver.getCurrentUrl());
 
