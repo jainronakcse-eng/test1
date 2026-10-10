@@ -9,11 +9,14 @@
         <module name="NSelenium" />
       </profile>
     </annotationProcessing>
+<<<<<<< HEAD
     <bytecodeTargetLevel>
       <module name="NSelenium" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="PREFER_TARGET_JDK_COMPILER" value="false" />
+=======
+>>>>>>> 71725265e938235b1cb166f1c72be3dd8a358d71
   </component>
 </project>
